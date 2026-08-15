@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "sanpai spider",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "McGamers.aternos.me",
-    "port"45486:,
+    "port": 45486,
     "version": "1.21.1"
   },
   "position": {
@@ -88,4 +88,4 @@
   "chat": {
     "respond": true
   }
-}
+  }
